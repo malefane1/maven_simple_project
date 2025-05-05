@@ -81,7 +81,7 @@
                     <goal>prepare-agent</agent>
                   </goals>
               </execution>
-              <excecution>
+              <exececution>
                 <id>default-report</id>
                 <phase>prepare-package</phase>
                   <goals>
