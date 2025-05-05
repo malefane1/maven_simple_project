@@ -5,7 +5,8 @@ package com.vut;
  *
  */
 public class App {
+    private String msg = "Greetings to you all!"
     public String getGreetings() {
-        return "Greetings to you all!";
+        return msg;
     }
 }
