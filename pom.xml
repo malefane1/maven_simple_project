@@ -75,7 +75,7 @@
           <artifactId>jacoco-maven-plugin</artifactId>
           <version>0.7.5.201524946</version>
           <executions>
-              <excecution>
+              <exececution>
                 <id>default-prepare-agent</id>
                   <goals>
                     <goal>prepare-agent</agent>
