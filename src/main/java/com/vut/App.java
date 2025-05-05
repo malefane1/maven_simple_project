@@ -6,6 +6,6 @@ package com.vut;
  */
 public class App {
     public String getGreetings() {
-        System.out.println("Greetings to you all!");
+        return "Greetings to you all!";
     }
 }
