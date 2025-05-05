@@ -78,14 +78,14 @@
               <execution>
                 <id>default-prepare-agent</id>
                   <goals>
-                    <goal>prepare-agent</agent>
+                    <goal>prepare-agent</goal>
                   </goals>
               </execution>
               <execution>
                 <id>default-report</id>
                 <phase>prepare-package</phase>
                   <goals>
-                    <goal>report</agent>
+                    <goal>report</goal>
                   </goals>
               </execution>
           </executions>
