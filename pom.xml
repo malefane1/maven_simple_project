@@ -99,6 +99,11 @@
         <groupId>org.codehaus.mojo</groupId>
           <artifactId>findbugs-maven-plugin</artifactId>
           <version>3.0.4</version>
+          <configuration>
+              <xmlOutput>true</xmlOutput>
+              <findbugsXmlOutput>true</findbugsXmlOutput>
+              <findbugsXmlWithMessages>true</findbugsWithXmlMessages>
+          </configuration>
       </plugin>
     </plugins>
   </reporting>
